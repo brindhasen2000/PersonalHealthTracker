@@ -1,0 +1,4 @@
+Entity,Continent,Latitude,Longitude,Average temperature per year,Hospital beds per 1000 people,Medical doctors per 1000 people,GDP/Capita,Population,Median age,Population aged 65 and over (%),Date,Daily tests,Cases,Deaths
+United States,North America,37.09,-95.71,11,2.77,2.57,65297.5,325719178,38,16,2020-01-22,,1.0,
+Uruguay,South America,-32.52,-55.77,16,2.8,3.74,16190.1,3456750,35,15,2020-03-13,,4.0,
+Vietnam,Asia,14.06,108.28,25,2.6,0.82,2715.3,95540800,32,7,2020-01-23,,2.0,
